@@ -1,0 +1,30 @@
+p{
+    color: black;
+    font-size: 20px;
+    background-color: aqua;
+    text-transform: capitalize;
+    text-decoration-style: double;
+    text-decoration: underline;
+    text-indent: 20px;
+    text-align: justify;
+    line-height: 30px;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    background-image: url(../img/nature.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    line-height: 30px;
+}
+#p_2{
+    color: wheat;
+    font-size: large;
+    background-color: brown;
+    text-align: center;
+    line-height: 50px;
+    letter-spacing: 8px;
+    background-image: url(../img/nature2.jpg);
+    background-repeat: repeat-x;
+    background-attachment: scroll;
+    background-position: left;
+}
